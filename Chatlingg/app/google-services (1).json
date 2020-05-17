@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "285767981363",
+    "firebase_url": "https://chatling-aee3c.firebaseio.com",
+    "project_id": "chatling-aee3c",
+    "storage_bucket": "chatling-aee3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285767981363:android:ddb22548340d5b96d40646",
+        "android_client_info": {
+          "package_name": "com.example.chatlingg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285767981363-u01fndqmh3src0t4ek7ff8vj1umsk0v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA371dHX8qmajIShdBkQ8kS9Y_tncxmp-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285767981363-u01fndqmh3src0t4ek7ff8vj1umsk0v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
